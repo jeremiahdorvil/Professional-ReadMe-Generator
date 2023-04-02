@@ -26,7 +26,7 @@
     This project is licensed under the MIT license.
   ## Contributing
   ```
-  This is a sample.
+  Write sample contribution instructions here.
   ```
   ## Tests
   To run the proper tests, use the following command:
