@@ -35,3 +35,7 @@
   ```
   ## Questions
   If you have any question about the repository, you can contact me at jeremiahdorvil@outlook.com. You can find more of my work at [jeremiahdorvil](https://github.com/jeremiahdorvil/).
+
+## Link
+Here is a link to a walkthrough demonstrating how to use this application.
+https://drive.google.com/file/d/1FUddxooWmR_CHZm6Hcu3D4mYOGAGvjqZ/view
